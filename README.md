@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaswanthbammidi
-- 👀 I’m interested in coding and webdevelopment
+- 👀 I’m interested in coding and cybersecurity
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me - vbammidi@gitam.in
